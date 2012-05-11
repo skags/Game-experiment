@@ -1,3 +1,7 @@
 This is my simple game experiment.
 
 I'm starting with NPC AI behavior before coding up player controls. Which means right now the project is an interesting AI battle simulation.
+
+Next to be developed:
+Hatelist manager object for determining who to attack.
+Ambulator object for defining various methods of idle movement.
